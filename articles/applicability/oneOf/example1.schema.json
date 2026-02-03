@@ -13,7 +13,7 @@
           "name": { "type": "string" },
           "email": { "type": "string" },
           "isTeacher": { "type": "boolean" },
-          "class": { "type": "number" }
+          "class": { "type": "string" }
         }
       }
     ]
